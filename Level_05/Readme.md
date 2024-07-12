@@ -1,0 +1,9 @@
+- Intro to databases and why they are needed , along with what kinds of databases exist ( lots of theory )
+- What are Django Apps and creating them
+- Defining Database structures in Django, Types of fields
+- Migrations in Django
+- Basics of the ORM
+- Soft Deletion
+- Relationships in Django Models, Foreign Key, One to One and Many to Many
+- Django Admin Interface
+- Milestone : Using Django ORM to rebuild the simple Tasks Management application

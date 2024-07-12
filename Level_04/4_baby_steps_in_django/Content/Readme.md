@@ -1,0 +1,1 @@
+> With each chapter, you will be provided with the corresponding official Django Documentation page as well, Django has excellent documentation and almost everything you will ever need is present there. Reading the documentation is the best way to become a Django Ninja!

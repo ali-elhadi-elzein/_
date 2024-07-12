@@ -1,0 +1,6 @@
+- Basics of Deployment
+- Freezing Requirements
+- Static and Dynamic files and managing them
+- Deploying to Heroku
+- Deploying on a dedicated instance
+- Creating Standard projects with CookieCutter
